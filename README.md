@@ -10,3 +10,20 @@ RESTFull Spring Boot + JPA
 IDE: Eclipse
 #### Database: 
 mySQL
+
+### Requirement:
+  Validate user.
+
+  Book or release a cabinate.
+
+  Approve or reject booking.
+
+  Search cabinate.
+
+  User history.
+
+  Report to Admin.
+
+## Demo
+
+### Login Screen:
